@@ -1,4 +1,5 @@
-# CodeIgniter 4 Application Starter
+# This is an example for news app
+## CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
 
